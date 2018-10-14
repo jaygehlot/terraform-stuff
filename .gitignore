@@ -1,0 +1,9 @@
+#Compiled files - state files created whenevver Terraform executes
+.tfstate
+.tfstate.backup
+
+#Module Director
+.terraform
+
+.DS_Store
+.idea
